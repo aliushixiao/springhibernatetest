@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Java EE 6-Java EE 6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../springhibernate/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../springhibernate/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../springhibernate/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../springhibernate/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../springhibernate/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../springhibernate/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../springhibernate/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../springhibernate/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../springhibernate/lib/javax.servlet.jsp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
